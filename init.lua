@@ -6,7 +6,7 @@ require("kanagawa")
 require("gruvbox")
 require("tokyonight")
 require("cyberdream")
-
+--come va?
 vim.opt["tabstop"] = 4
 vim.opt["shiftwidth"] = 4
 vim.lsp.enable("pyright")
