@@ -1,10 +1,18 @@
 {
   "extras": [
+<<<<<<< HEAD
 
   ],
   "install_version": 8,
   "news": {
     "NEWS.md": "11866"
+=======
+    "lazyvim.plugins.extras.editor.neo-tree"
+  ],
+  "install_version": 8,
+  "news": {
+    "NEWS.md": "10960"
+>>>>>>> 148e1fc59590a3556b9d76084946d3aad775b41e
   },
   "version": 8
 }

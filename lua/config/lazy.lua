@@ -51,3 +51,7 @@ require("lazy").setup({
     },
   },
 })
+<<<<<<< HEAD
+=======
+require("lazy").setup("plugins")
+>>>>>>> 148e1fc59590a3556b9d76084946d3aad775b41e
