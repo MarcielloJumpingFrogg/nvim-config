@@ -11,7 +11,7 @@ vim.opt["tabstop"] = 4
 vim.opt["shiftwidth"] = 4
 vim.lsp.enable("pyright")
 
-vim.cmd.colorscheme("tokyonight-storm")
+vim.cmd.colorscheme("tokyonight")
 require("catppuccin").setup({
   flavour = "auto", -- latte, frappe, macchiato, mocha
   -- background = { -- :h background
